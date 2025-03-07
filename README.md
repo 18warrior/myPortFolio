@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my education, skills, and contact details in a simple and elegant manner.
 
-📌 Features
+# 📌 Features
 
 ✅ Home Page – Introduction and overview
 
@@ -10,37 +10,47 @@ Welcome to my personal portfolio website! This project showcases my education, s
 
 ✅ Contact Me – Get in touch easily
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js, Styled Components, Bootstrap
 
 Other: React-Router, React-Helmet
 
-🚀 Installation & Setup
+# 🚀 Installation & Setup
 
 Clone the repository:
 
+```bash
 git clone https://github.com/18warrior/myPortFolio.git
 
 cd myPortFolio
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Start the development server:
 
+```bash
 npm start
+```
 
 Open http://localhost:3000 in your browser.
 
-🚀 Deployment
+# 🚀 Deployment
 
-The project is deployed using GitHub Pages. To deploy:
+The project is deployed using GitHub Pages. 
 
+To deploy:
+
+```bash
 npm run deploy
+```
 
-📬 Contact
+# 📬 Contact
 
 📧 Email: [harshvir183singh@gmail.com]
 
