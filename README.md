@@ -4,21 +4,21 @@ Welcome to my personal portfolio website! This project showcases my education, s
 
 # 📌 Features
 
-✅ Home Page – Introduction and overview
+✅ **Home Page** – Introduction and overview
 
-✅ Education Section – Academic background
+✅ **Education Section** – Academic background
 
-✅ Contact Me – Get in touch easily
+✅ **Contact Me** – Get in touch easily
 
 # 🛠️ Tech Stack
 
-Frontend: React.js, Styled Components, Bootstrap
+**Frontend:** React.js, Styled Components, Bootstrap
 
-Other: React-Router, React-Helmet
+**Other:** React-Router, React-Helmet
 
 # 🚀 Installation & Setup
 
-Clone the repository:
+**Clone the repository:**
 
 ```bash
 git clone https://github.com/18warrior/myPortFolio.git
@@ -26,25 +26,25 @@ git clone https://github.com/18warrior/myPortFolio.git
 cd myPortFolio
 ```
 
-Install dependencies:
+**Install dependencies:**
 
 ```bash
 npm install
 ```
 
-Start the development server:
+**Start the development server:**
 
 ```bash
 npm start
 ```
 
-Open http://localhost:3000 in your browser.
+**Open http://localhost:3000 in your browser.**
 
 # 🚀 Deployment
 
 The project is deployed using GitHub Pages. 
 
-To deploy:
+**To deploy:**
 
 ```bash
 npm run deploy
