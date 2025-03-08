@@ -59,3 +59,16 @@ npm run deploy
 **📸 Instagram:** [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/exquisite._.harsh/)
 
 **📱 Facebook:** [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/harshvir.singh.37266)
+
+
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+![Home Page](https://github.com/18warrior/myPortFolio/blob/main/screenshots/home.png?raw=true)  
+
+### 🎓 Education Section  
+![Education Section](https://github.com/18warrior/myPortFolio/blob/main/screenshots/education.png?raw=true)  
+
+### 📞 Contact Me Section  
+![Contact Me](https://github.com/18warrior/myPortFolio/blob/main/screenshots/contact.png?raw=true)  
+
