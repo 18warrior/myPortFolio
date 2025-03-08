@@ -64,11 +64,14 @@ npm run deploy
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/18warrior/myPortFolio/blob/main/screenshots/home.png?raw=true)  
+![Home Page](https://github.com/18warrior/myPortFolio/blob/main/screenshots/home.png?raw=true)    
 
 ### 🎓 Education Section  
-![Education Section](https://github.com/18warrior/myPortFolio/blob/main/screenshots/education.png?raw=true)  
+![Education Section1](https://github.com/18warrior/myPortFolio/blob/main/screenshots/edu1.png?raw=true)  
+![Education Section2](https://github.com/18warrior/myPortFolio/blob/main/screenshots/edu2.png?raw=true)  
+![Education Section3](https://github.com/18warrior/myPortFolio/blob/main/screenshots/edu3.png?raw=true)  
 
 ### 📞 Contact Me Section  
-![Contact Me](https://github.com/18warrior/myPortFolio/blob/main/screenshots/contact.png?raw=true)  
+![Contact Me1](https://github.com/18warrior/myPortFolio/blob/main/screenshots/contact1.png?raw=true)  
+![Contact Me2](https://github.com/18warrior/myPortFolio/blob/main/screenshots/contact2.png?raw=true)  
 
